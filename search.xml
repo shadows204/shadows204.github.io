@@ -35,7 +35,7 @@
       <link href="/2026/04/20/start-artical/"/>
       <url>/2026/04/20/start-artical/</url>
       
-        <content type="html"><![CDATA[<h2 id="My-first-try-for-bolg"><a href="#My-first-try-for-bolg" class="headerlink" title="My first try for bolg"></a>My first try for bolg</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="My-first-try-for-bolg"><a href="#My-first-try-for-bolg" class="headerlink" title="My first try for bolg"></a>My first try for bolg</h2><p>第一次创建blog,算是一个小小的尝试,谢谢各位关注喵~<br>写下新的结局!</p>]]></content>
       
       
       
@@ -58,17 +58,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important; /* 热粉色 HotPink */  color: #fff !important;          }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -80,9 +69,20 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important; /* 热粉色 HotPink */  color: #fff !important;          }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -102,9 +102,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -113,9 +113,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
