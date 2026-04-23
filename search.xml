@@ -122,5 +122,214 @@
     </entry>
     
     
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_0_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_0_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param","Value":0,"Blend":"Add"},{"Id":"Param2","Value":0,"Blend":"Add"},{"Id":"Param3","Value":0,"Blend":"Add"},{"Id":"Param4","Value":0,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_10_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_10_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param16","Value":0,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_1_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_1_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.5,"FadeOutTime":0.5,"Parameters":[{"Id":"Param4","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_11_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_11_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param16","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_2_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_2_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param6","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_3_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_3_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param7","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_4_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_4_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.5,"FadeOutTime":0.5,"Parameters":[{"Id":"Param","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_5_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_5_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.5,"FadeOutTime":0.5,"Parameters":[{"Id":"Param2","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_6_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_6_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.5,"FadeOutTime":0.5,"Parameters":[{"Id":"Param3","Value":1,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_8_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_8_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.3,"FadeOutTime":0.3,"Parameters":[{"Id":"Param32","Value":0.6,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_7_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_7_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","FadeInTime":0.3,"FadeOutTime":0.3,"Parameters":[{"Id":"Param32","Value":-0.6,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Expressions_9_File_0.json"/>
+      <url>/live2d_models/Cyrene/Expressions_9_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Type":"Live2D Expression","Parameters":[{"Id":"Param32","Value":0,"Blend":"Add"}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Motions6_0_File_0.json"/>
+      <url>/live2d_models/Cyrene/Motions6_0_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"Duration":0.5,"Fps":60,"Loop":true,"AreBeziersRestricted":true,"CurveCount":38,"TotalSegmentCount":76,"TotalPointCount":190,"UserDataCount":0,"TotalUserDataSize":0},"Curves":[{"Target":"Parameter","Id":"Param","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param2","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param3","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param15","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param16","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param4","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param5","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param6","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param7","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param9","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param12","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param10","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param11","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param13","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param14","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param17","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param18","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowLX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowLY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowRX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowRY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowLAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowRAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowLForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBrowRForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"Param32","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamEyeLOpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,0,0.5,1]},{"Target":"Parameter","Id":"ParamEyeLSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamEyeROpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,0,0.5,1]},{"Target":"Parameter","Id":"ParamEyeRSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamEyeBallX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamEyeBallY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamMouthForm","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,0,0.5,1]},{"Target":"Parameter","Id":"ParamMouthOpenY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamAngleX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamAngleY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]},{"Target":"Parameter","Id":"ParamBodyAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,0,0.5,0]}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Motions6_1_File_0.json"/>
+      <url>/live2d_models/Cyrene/Motions6_1_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"Duration":3,"Fps":60,"Loop":true,"AreBeziersRestricted":true,"CurveCount":37,"TotalSegmentCount":154,"TotalPointCount":425,"UserDataCount":0,"TotalUserDataSize":0},"Curves":[{"Target":"Parameter","Id":"Param","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param2","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param3","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param15","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.244,0,0.322,0,0.4,0,1,0.456,0,0.511,1,0.567,1,1,0.933,1,1.3,1,1.667,1,1,1.778,1,1.889,0,2,0,1,2.111,0,2.222,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param4","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,1.222,0,1.778,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param5","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,0.833,0,1,1,1.167,1,1,1.544,1,1.922,1,2.3,1,1,2.311,1,2.322,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param6","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,1.222,0,1.778,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param7","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,1.222,0,1.778,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param9","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param12","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,0.611,0,0.722,1,0.833,1,1,1.167,1,1.5,1,1.833,1,1,2,1,2.167,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param10","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param11","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param13","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param14","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param17","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param18","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,0.578,0,0.656,-1,0.733,-1,1,1.267,-1,1.8,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.111,0,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"Param32","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeLOpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.278,1,0.389,1,0.5,1,1,0.578,1,0.656,0,0.733,0,1,0.933,0,1.133,0,1.333,0,1,1.444,0,1.556,1,1.667,1,1,1.889,1,2.111,1,2.333,1,0,3,1]},{"Target":"Parameter","Id":"ParamEyeLSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,1,0.5,1,1,0.578,1,0.656,1,0.733,1,1,0.933,1,1.133,1,1.333,1,1,1.444,1,1.556,1,1.667,1,1,1.722,1,1.778,0,1.833,0,1,2,0,2.167,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeROpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.889,1,1.611,1,2.333,1,0,3,1]},{"Target":"Parameter","Id":"ParamEyeRSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeBallX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-0.6,0.5,-0.6,1,1.111,-0.6,1.722,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeBallY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamMouthForm","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.889,1,1.611,1,2.333,1,0,3,1]},{"Target":"Parameter","Id":"ParamMouthOpenY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-20,0.5,-20,1,1,-20,1.5,-20,2,-20,1,2.111,-20,2.222,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.389,0,0.611,30,0.833,30,1,1.111,30,1.389,30,1.667,30,1,1.889,30,2.111,0,2.333,0,0,3,0]},{"Target":"Parameter","Id":"ParamBodyAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,0,3,0]}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Motions6_2_File_0.json"/>
+      <url>/live2d_models/Cyrene/Motions6_2_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"Duration":4,"Fps":60,"Loop":true,"AreBeziersRestricted":true,"CurveCount":34,"TotalSegmentCount":138,"TotalPointCount":380,"UserDataCount":0,"TotalUserDataSize":0},"Curves":[{"Target":"Parameter","Id":"Param2","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param3","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param5","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param6","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param7","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,1,0.5,1,1,1.5,1,2.5,1,3.5,1,1,3.611,1,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param9","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param12","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param10","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param11","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param13","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param14","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param17","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.389,0,0.611,1,0.833,1,1,1.611,1,2.389,1,3.167,1,1,3.389,1,3.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param18","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.389,0,0.611,1,0.833,1,1,1.611,1,2.389,1,3.167,1,1,3.389,1,3.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowLX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowLY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-1,0.5,-1,1,1.5,-1,2.5,-1,3.5,-1,1,3.611,-1,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowRX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowRY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-1,0.5,-1,1,1.5,-1,2.5,-1,3.5,-1,1,3.611,-1,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowLAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-0.8,0.5,-0.8,1,1.5,-0.8,2.5,-0.8,3.5,-0.8,1,3.611,-0.8,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowRAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-0.8,0.5,-0.8,1,1.5,-0.8,2.5,-0.8,3.5,-0.8,1,3.611,-0.8,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowLForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-0.6,0.5,-0.6,1,1.5,-0.6,2.5,-0.6,3.5,-0.6,1,3.611,-0.6,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBrowRForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,-0.6,0.5,-0.6,1,1.5,-0.6,2.5,-0.6,3.5,-0.6,1,3.611,-0.6,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"Param32","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamEyeLOpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.278,1,0.389,0,0.5,0,1,1.5,0,2.5,0,3.5,0,1,3.611,0,3.722,1,3.833,1,0,4,1]},{"Target":"Parameter","Id":"ParamEyeLSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.5,0,2.5,0,3.5,0,1,3.611,0,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamEyeROpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.278,1,0.389,0,0.5,0,1,1.5,0,2.5,0,3.5,0,1,3.611,0,3.722,1,3.833,1,0,4,1]},{"Target":"Parameter","Id":"ParamEyeRSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.278,0,0.389,0,0.5,0,1,1.5,0,2.5,0,3.5,0,1,3.611,0,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamEyeBallX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamEyeBallY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamMouthForm","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,1.389,1,2.611,1,3.833,1,0,4,1]},{"Target":"Parameter","Id":"ParamMouthOpenY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamAngleX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamAngleY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.222,0,0.278,30,0.333,30,1,0.367,30,0.4,30,0.433,30,1,0.544,30,0.656,8.084,0.767,0,1,0.844,-5.659,0.922,-5,1,-5,1,1.722,-5,2.444,-5,3.167,-5,1,3.278,-5,3.389,30,3.5,30,1,3.611,30,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.256,0,0.344,0,0.433,0,1,0.544,0,0.656,12,0.767,12,1,1.567,12,2.367,12,3.167,12,1,3.278,12,3.389,-5,3.5,-5,1,3.611,-5,3.722,0,3.833,0,0,4,0]},{"Target":"Parameter","Id":"ParamBodyAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.389,0,2.611,0,3.833,0,0,4,0]}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Motions6_3_File_0.json"/>
+      <url>/live2d_models/Cyrene/Motions6_3_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"Duration":3,"Fps":60,"Loop":true,"AreBeziersRestricted":true,"CurveCount":33,"TotalSegmentCount":137,"TotalPointCount":378,"UserDataCount":0,"TotalUserDataSize":0},"Curves":[{"Target":"Parameter","Id":"Param2","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param3","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param15","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param5","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param9","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param12","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param10","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,0.833,0,1,1,1.167,1,1,1.556,1,1.944,1,2.333,1,1,2.5,1,2.667,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param11","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,0.833,0,1,1,1.167,1,1,1.556,1,1.944,1,2.333,1,1,2.5,1,2.667,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param13","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param14","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param17","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param18","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowLForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBrowRForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"Param32","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,1.056,0,1.944,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeLOpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.5,1,0.833,1,1.167,1,1,1.256,1,1.344,0,1.433,0,1,1.733,0,2.033,0,2.333,0,1,2.5,0,2.667,1,2.833,1,0,3,1]},{"Target":"Parameter","Id":"ParamEyeLSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.5,0,0.833,1,1.167,1,1,1.256,1,1.344,1,1.433,1,1,1.733,1,2.033,1,2.333,1,1,2.5,1,2.667,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeROpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.5,1,0.833,1,1.167,1,1,1.256,1,1.344,0,1.433,0,1,1.733,0,2.033,0,2.333,0,1,2.5,0,2.667,1,2.833,1,0,3,1]},{"Target":"Parameter","Id":"ParamEyeRSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.5,0,0.833,1,1.167,1,1,1.256,1,1.344,1,1.433,1,1,1.733,1,2.033,1,2.333,1,1,2.5,1,2.667,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeBallX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,-0.6,0.667,-0.6,1,1.278,-0.6,1.889,0,2.5,0,1,2.611,0,2.722,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamEyeBallY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.944,0,1.722,0,2.5,0,1,2.611,0,2.722,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamMouthForm","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.5,1,0.833,1,1.167,1,1,1.611,1,2.056,1,2.5,1,1,2.611,1,2.722,1,2.833,1,0,3,1]},{"Target":"Parameter","Id":"ParamMouthOpenY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.5,0,0.833,0,1.167,0,1,1.256,0,1.344,1,1.433,1,1,1.789,1,2.144,1,2.5,1,1,2.611,1,2.722,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,-30,0.667,-30,1,1.222,-30,1.778,-30,2.333,-30,1,2.5,-30,2.667,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.889,0,1.611,0,2.333,0,1,2.389,0,2.444,20,2.5,20,1,2.611,20,2.722,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.333,0,0.5,0,0.667,0,1,0.833,0,1,0,1.167,0,1,1.311,0,1.456,30,1.6,30,1,1.844,30,2.089,30,2.333,30,1,2.389,30,2.444,-15,2.5,-15,1,2.611,-15,2.722,0,2.833,0,0,3,0]},{"Target":"Parameter","Id":"ParamBodyAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.5,0,0.833,0,1.167,0,1,1.311,0,1.456,6,1.6,6,1,1.844,6,2.089,6,2.333,6,1,2.5,6,2.667,0,2.833,0,0,3,0]}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Motions_Tick3_3_File_0.json"/>
+      <url>/live2d_models/Cyrene/Motions_Tick3_3_File_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"Duration":60.333,"Fps":30,"Loop":true,"AreBeziersRestricted":true,"CurveCount":32,"TotalSegmentCount":172,"TotalPointCount":484,"UserDataCount":0,"TotalUserDataSize":0},"Curves":[{"Target":"Parameter","Id":"Param16","Segments":[0,0,0,60.333,0]},{"Target":"Parameter","Id":"Param5","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param6","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param9","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param12","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param10","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param11","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param13","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.322,0,0.478,1,0.633,1,1,20.3,1,39.967,1,59.633,1,1,59.756,1,59.878,0,60,0,1,60.056,0,60.111,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param14","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.322,0,0.478,1,0.633,1,1,20.3,1,39.967,1,59.633,1,1,59.756,1,59.878,0,60,0,1,60.056,0,60.111,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param17","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param18","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowLX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowLY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowRX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowRY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowLAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowRAngle","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowLForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBrowRForm","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"Param32","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.444,0,0.722,0,1,0,1,1.333,0,1.667,-0.3,2,-0.3,1,2.333,-0.3,2.667,0.3,3,0.3,1,3.333,0.3,3.667,-0.6,4,-0.6,1,4.333,-0.6,4.667,0.6,5,0.6,1,5.333,0.6,5.667,-0.6,6,-0.6,1,6.333,-0.6,6.667,0.6,7,0.6,1,7.333,0.6,7.667,-0.6,8,-0.6,1,8.333,-0.6,8.667,0.6,9,0.6,1,9.333,0.6,9.667,-0.6,10,-0.6,1,10.333,-0.6,10.667,0.6,11,0.6,1,11.333,0.6,11.667,-0.6,12,-0.6,1,12.333,-0.6,12.667,0.6,13,0.6,1,13.333,0.6,13.667,-0.6,14,-0.6,1,14.333,-0.6,14.667,0.6,15,0.6,1,15.333,0.6,15.667,-0.6,16,-0.6,1,16.333,-0.6,16.667,0.6,17,0.6,1,17.333,0.6,17.667,-0.6,18,-0.6,1,18.333,-0.6,18.667,0.6,19,0.6,1,19.333,0.6,19.667,-0.6,20,-0.6,1,20.333,-0.6,20.667,0.6,21,0.6,1,21.333,0.6,21.667,-0.6,22,-0.6,1,22.333,-0.6,22.667,0.6,23,0.6,1,23.333,0.6,23.667,-0.6,24,-0.6,1,24.333,-0.6,24.667,0.6,25,0.6,1,25.333,0.6,25.667,-0.6,26,-0.6,1,26.333,-0.6,26.667,0.6,27,0.6,1,27.333,0.6,27.667,-0.6,28,-0.6,1,28.333,-0.6,28.667,0.6,29,0.6,1,29.333,0.6,29.667,-0.6,30,-0.6,1,30.333,-0.6,30.667,0.6,31,0.6,1,31.333,0.6,31.667,-0.6,32,-0.6,1,32.333,-0.6,32.667,0.6,33,0.6,1,33.333,0.6,33.667,-0.6,34,-0.6,1,34.333,-0.6,34.667,0.6,35,0.6,1,35.333,0.6,35.667,-0.6,36,-0.6,1,36.333,-0.6,36.667,0.6,37,0.6,1,37.333,0.6,37.667,-0.6,38,-0.6,1,38.333,-0.6,38.667,0.6,39,0.6,1,39.333,0.6,39.667,-0.6,40,-0.6,1,40.333,-0.6,40.667,0.6,41,0.6,1,41.333,0.6,41.667,-0.6,42,-0.6,1,42.333,-0.6,42.667,0.6,43,0.6,1,43.333,0.6,43.667,-0.6,44,-0.6,1,44.333,-0.6,44.667,0.6,45,0.6,1,45.333,0.6,45.667,-0.6,46,-0.6,1,46.333,-0.6,46.667,0.6,47,0.6,1,47.333,0.6,47.667,-0.6,48,-0.6,1,48.333,-0.6,48.667,0.6,49,0.6,1,49.333,0.6,49.667,-0.6,50,-0.6,1,50.333,-0.6,50.667,0.6,51,0.6,1,51.333,0.6,51.667,-0.6,52,-0.6,1,52.333,-0.6,52.667,0.6,53,0.6,1,53.333,0.6,53.667,-0.6,54,-0.6,1,54.333,-0.6,54.667,0.6,55,0.6,1,55.333,0.6,55.667,-0.6,56,-0.6,1,56.333,-0.6,56.667,0.6,57,0.6,1,57.333,0.6,57.667,-0.3,58,-0.3,1,58.333,-0.3,58.667,0.3,59,0.3,1,59.278,0.3,59.556,0,59.833,0,1,59.944,0,60.056,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamEyeLOpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.778,1,1.389,1,2,1,1,2.111,1,2.222,0,2.333,0,1,21.444,0,40.556,0,59.667,0,1,59.778,0,59.889,1,60,1,1,60.056,1,60.111,1,60.167,1,0,60.333,1]},{"Target":"Parameter","Id":"ParamEyeLSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.778,0,1.389,0,2,0,1,21.333,0,40.667,0,60,0,1,60.056,0,60.111,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamEyeROpen","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,0.778,1,1.389,1,2,1,1,2.111,1,2.222,0,2.333,0,1,21.444,0,40.556,0,59.667,0,1,59.778,0,59.889,1,60,1,1,60.056,1,60.111,1,60.167,1,0,60.333,1]},{"Target":"Parameter","Id":"ParamEyeRSmile","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,0.778,0,1.389,0,2,0,1,21.333,0,40.667,0,60,0,1,60.056,0,60.111,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamEyeBallX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamEyeBallY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamMouthForm","Segments":[0,1,1,0.056,1,0.111,1,0.167,1,1,20.167,1,40.167,1,60.167,1,0,60.333,1]},{"Target":"Parameter","Id":"ParamMouthOpenY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamAngleX","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamAngleY","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]},{"Target":"Parameter","Id":"ParamBodyAngleZ","Segments":[0,0,1,0.056,0,0.111,0,0.167,0,1,20.167,0,40.167,0,60.167,0,0,60.333,0]}]}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/model.json"/>
+      <url>/live2d_models/Cyrene/model.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"ConfVer":0,"Type":0,"FileReferences":{"Moc":"Moc_0.moc3","Textures":["Textures_0_0.png"],"Physics":"Physics_0.json","PhysicsV2":{"File":"Physics_0.json","MaxWeight":0.998},"Motions":{"动作#6":[{"Name":"动作回正","File":"Motions6_0_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":2,"Code":"assign 1"}]},{"Name":"Wink~","File":"Motions6_1_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 1"}]},{"Name":"我可爱吧~","File":"Motions6_2_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 1"}]},{"Name":"笑一笑吧~","File":"Motions6_3_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 1"}]}],"绳子开关#5":[{"Name":"开/回正","Expression":"开","VarFloats":[{"Name":"off/on","Type":2,"Code":"assign 1"}]},{"Name":"关","Expression":"关","VarFloats":[{"Name":"off/on","Type":2,"Code":"assign 0"}]}],"表情3#4":[{"Name":"表情回正","Expression":"表情回正","NextMtn":"表情2#3:表情回正"},{"Name":"闪耀","Expression":"闪耀"}],"表情2#3":[{"Name":"表情回正","Expression":"表情回正","NextMtn":"表情#2:表情回正"},{"Name":"问号","Expression":"问号"}],"表情#2":[{"Name":"表情回正","Expression":"表情回正"},{"Name":"墨镜","Expression":"墨镜"},{"Name":"星星眼","Expression":"星星眼"},{"Name":"圈圈眼","Expression":"圈圈眼"},{"Name":"开心眼","Expression":"开心眼"}],"秋千#1":[{"Name":"拽秋千0","WrapMode":2,"Expression":"拽秋千回正"},{"Name":"拽秋千1","WrapMode":2,"Expression":"拽秋千1","NextMtn":"秋千#1:拽秋千0"},{"Name":"拽秋千2","WrapMode":2,"Expression":"拽秋千2","NextMtn":"秋千#1:拽秋千0"}],"Tick3":[{"Name":"Wink（待机）","File":"Motions6_1_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 0"}]},{"Name":"可爱（待机）","File":"Motions6_2_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 0"}]},{"Name":"微笑（待机）","File":"Motions6_3_File_0.json","WrapMode":2,"VarFloats":[{"Name":"OFF/ON","Type":1,"Code":"equal 0"}]},{"Name":"荡秋千（待机）","File":"Motions_Tick3_3_File_0.json","WrapMode":2,"VarFloats":[{"Name":"off/on","Type":1,"Code":"equal 1"}]}],"Start":[{"Name":"初始化","Expression":"开","VarFloats":[{"Name":"off/on","Type":2,"Code":"assign 1"},{"Name":"OFF/ON","Type":2,"Code":"assign 0"}]}]},"Expressions":[{"Name":"表情回正","File":"Expressions_0_File_0.json"},{"Name":"墨镜","File":"Expressions_1_File_0.json"},{"Name":"问号","File":"Expressions_2_File_0.json"},{"Name":"闪耀","File":"Expressions_3_File_0.json"},{"Name":"星星眼","File":"Expressions_4_File_0.json"},{"Name":"圈圈眼","File":"Expressions_5_File_0.json"},{"Name":"开心眼","File":"Expressions_6_File_0.json"},{"Name":"拽秋千1","File":"Expressions_7_File_0.json"},{"Name":"拽秋千2","File":"Expressions_8_File_0.json"},{"Name":"拽秋千回正","File":"Expressions_9_File_0.json"},{"Name":"开","File":"Expressions_10_File_0.json"},{"Name":"关","File":"Expressions_11_File_0.json"}]},"Controllers":{"ParamHit":{},"ParamLoop":{},"KeyTrigger":{"Enabled":true},"ParamTrigger":{},"AreaTrigger":{},"HandTrigger":{},"EyeBlink":{"MinInterval":500,"MaxInterval":6000,"Items":[{"Id":"ParamEyeLOpen","Min":0,"Max":1,"BlendMode":2,"Input":0},{"Id":"ParamEyeROpen","Min":0,"Max":1,"BlendMode":2,"Input":0}],"Enabled":true},"LipSync":{"Gain":5},"MouseTracking":{"SmoothTime":0.15,"Enabled":true},"AutoBreath":{"Enabled":true},"ExtraMotion":{"Enabled":true},"Accelerometer":{"Enabled":true},"Microphone":{},"Transform":{},"FaceTracking":{"AngleX":[{"Id":"ParamAngleX","Input":0}],"AngleY":[{"Id":"ParamAngleY","Input":0}],"AngleZ":[{"Id":"ParamAngleZ","Input":0}],"EyeLOpen":[{"Id":"ParamEyeLOpen","Input":0}],"EyeROpen":[{"Id":"ParamEyeROpen","Input":0}],"EyeballX":[{"Id":"ParamEyeBallX","Input":0}],"EyeballY":[{"Id":"ParamEyeBallY","Input":0}],"MouthOpenY":[{"Id":"ParamMouthOpenY","Input":0}],"MouthForm":[{"Id":"ParamMouthForm","Input":0}],"Enabled":true},"HandTracking":{},"ParamValue":{},"PartOpacity":{},"ArtmeshOpacity":{},"ArtmeshColor":{},"ArtmeshCulling":{"DefaultMode":0},"IntimacySystem":{}},"HitAreas":[{"Name":"左侧秋千","Id":"ArtMesh11","Motion":"秋千#1:拽秋千1"},{"Name":"右侧秋千","Id":"ArtMesh12","Motion":"秋千#1:拽秋千2"},{"Name":"表情回正花","Id":"ArtMesh15","Motion":"表情3#4:表情回正"},{"Name":"星星眼1坠","Id":"ArtMesh77","Motion":"表情#2:星星眼"},{"Name":"圈圈眼2坠","Id":"ArtMesh78","Motion":"表情#2:圈圈眼"},{"Name":"开心眼1叶","Id":"ArtMesh16","Motion":"表情#2:开心眼"},{"Name":"墨镜刘海","Id":"ArtMesh20","Motion":"表情#2:墨镜"},{"Name":"闪耀1枝","Id":"ArtMesh116","Motion":"表情3#4:闪耀"},{"Name":"问号2枝","Id":"ArtMesh115","Motion":"表情2#3:问号"}],"Options":{"TexFixed":true,"TexType":0}}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/live2d_models/Cyrene/Physics_0.json"/>
+      <url>/live2d_models/Cyrene/Physics_0.json</url>
+      
+        <content type="html"><![CDATA[{"Version":2,"Meta":{"PhysicsSettingCount":7,"TotalInputCount":11,"TotalOutputCount":14,"VertexCount":19,"Fps":60,"EffectiveForces":{"Gravity":{"X":0,"Y":-1},"Wind":{"X":0,"Y":0}},"PhysicsDictionary":[{"Id":"PhysicsSetting1","Name":"秋千特殊"},{"Id":"PhysicsSetting2","Name":"双腿摇晃"},{"Id":"PhysicsSetting3","Name":"秋千摇晃"},{"Id":"PhysicsSetting4","Name":"常驻物理"},{"Id":"PhysicsSetting5","Name":"跟随物理"},{"Id":"PhysicsSetting6","Name":"头发物理"},{"Id":"PhysicsSetting7","Name":"特殊物理"}]},"PhysicsSettings":[{"Id":"PhysicsSetting1","Input":[{"Source":{"Target":"Parameter","Id":"Param32"},"Weight":100,"Type":"X","Reflect":true}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param31"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":1,"Delay":0.6,"Acceleration":1,"Radius":0},{"Position":{"X":0,"Y":20},"Mobility":0.95,"Delay":0.6,"Acceleration":1,"Radius":20}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-10,"Default":0,"Maximum":10}}},{"Id":"PhysicsSetting2","Input":[{"Source":{"Target":"Parameter","Id":"Param31"},"Weight":100,"Type":"Angle","Reflect":true},{"Source":{"Target":"Parameter","Id":"ParamBreath"},"Weight":100,"Type":"X","Reflect":false}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param19"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param20"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param21"},"VertexIndex":2,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param22"},"VertexIndex":2,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":1,"Delay":1,"Acceleration":1,"Radius":0},{"Position":{"X":0,"Y":40},"Mobility":0.95,"Delay":1,"Acceleration":1,"Radius":40},{"Position":{"X":0,"Y":60},"Mobility":0.95,"Delay":0.6,"Acceleration":1,"Radius":20}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-10,"Default":0,"Maximum":10}}},{"Id":"PhysicsSetting3","Input":[{"Source":{"Target":"Parameter","Id":"ParamBreath"},"Weight":100,"Type":"X","Reflect":false}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param23"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param24"},"VertexIndex":2,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":1,"Delay":0.6,"Acceleration":1,"Radius":20},{"Position":{"X":0,"Y":20},"Mobility":0.95,"Delay":0.6,"Acceleration":1,"Radius":20},{"Position":{"X":0,"Y":40},"Mobility":0.95,"Delay":0.6,"Acceleration":1,"Radius":20}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-10,"Default":0,"Maximum":10}}},{"Id":"PhysicsSetting4","Input":[{"Source":{"Target":"Parameter","Id":"ParamBreath"},"Weight":100,"Type":"Angle","Reflect":false}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param25"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param26"},"VertexIndex":2,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":0.9,"Delay":0.6,"Acceleration":1,"Radius":40},{"Position":{"X":0,"Y":40},"Mobility":0.9,"Delay":1,"Acceleration":1,"Radius":40},{"Position":{"X":0,"Y":70},"Mobility":0.9,"Delay":0.6,"Acceleration":1,"Radius":30}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-10,"Default":0,"Maximum":10}}},{"Id":"PhysicsSetting5","Input":[{"Source":{"Target":"Parameter","Id":"ParamAngleX"},"Weight":50,"Type":"X","Reflect":false},{"Source":{"Target":"Parameter","Id":"ParamAngleY"},"Weight":50,"Type":"X","Reflect":false}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param27"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param28"},"VertexIndex":2,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":0.9,"Delay":1,"Acceleration":1,"Radius":20},{"Position":{"X":0,"Y":40},"Mobility":0.9,"Delay":1,"Acceleration":1,"Radius":40},{"Position":{"X":0,"Y":70},"Mobility":0.9,"Delay":0.6,"Acceleration":1,"Radius":30}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-20,"Default":0,"Maximum":20}}},{"Id":"PhysicsSetting6","Input":[{"Source":{"Target":"Parameter","Id":"ParamAngleX"},"Weight":75,"Type":"X","Reflect":false},{"Source":{"Target":"Parameter","Id":"ParamAngleY"},"Weight":20,"Type":"X","Reflect":false},{"Source":{"Target":"Parameter","Id":"Param31"},"Weight":60,"Type":"Angle","Reflect":true}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param29"},"VertexIndex":1,"Scale":80,"Weight":100,"Type":"Angle","Reflect":false},{"Destination":{"Target":"Parameter","Id":"Param30"},"VertexIndex":2,"Scale":80,"Weight":50,"Type":"Angle","Reflect":true}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":0.9,"Delay":1,"Acceleration":1,"Radius":40},{"Position":{"X":0,"Y":12},"Mobility":0.88,"Delay":1,"Acceleration":0.6,"Radius":12},{"Position":{"X":0,"Y":24},"Mobility":0.88,"Delay":0.6,"Acceleration":0.6,"Radius":12}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-20,"Default":0,"Maximum":20}}},{"Id":"PhysicsSetting7","Input":[{"Source":{"Target":"Parameter","Id":"ParamBreath"},"Weight":100,"Type":"X","Reflect":false}],"Output":[{"Destination":{"Target":"Parameter","Id":"Param30"},"VertexIndex":1,"Scale":80,"Weight":50,"Type":"Angle","Reflect":true}],"Vertices":[{"Position":{"X":0,"Y":0},"Mobility":0.88,"Delay":0.6,"Acceleration":0.6,"Radius":40},{"Position":{"X":0,"Y":30},"Mobility":0.88,"Delay":1,"Acceleration":0.6,"Radius":30}],"Normalization":{"Position":{"Minimum":-10,"Default":0,"Maximum":10},"Angle":{"Minimum":-20,"Default":0,"Maximum":20}}}]}]]></content>
+      
+    </entry>
+    
+    
   
 </search>
