@@ -184,7 +184,7 @@ if (typeof window.live2d_initialized === 'undefined') {
       switchType: "order" // 模型切换方式，这里为顺序切换
     };
     // 资源初始化以及移动端适配
-    if (screen.width >= 768) {
+    if (screen.width >= 360) {
       Promise.all([
         loadExternalResource(config.path.cssPath, "css"),
         loadExternalResource(config.path.live2dCorePath, "js"),
