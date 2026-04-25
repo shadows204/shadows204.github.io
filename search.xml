@@ -47,11 +47,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important; /* 热粉色 HotPink */  color: #fff !important;          }]]></content>
+        <content type="html"><![CDATA[<h2 id="特别感谢"><a href="#特别感谢" class="headerlink" title="特别感谢"></a>特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!<br>此外,对所有用到的开源插件作者表示衷心的感谢!<br>在此次网站搭建过程中,用到了live2d模型 <a href="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<a href="https://space.bilibili.com/1815643596">作者：Yuri 幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!<br>同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划"><a href="#未来企划" class="headerlink" title="未来企划"></a>未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受<br>愿你我,写下新的结局…</p>]]></content>
       
     </entry>
     
@@ -69,11 +69,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[<h2 id="特别感谢"><a href="#特别感谢" class="headerlink" title="特别感谢"></a>特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!<br>此外,对所有用到的开源插件作者表示衷心的感谢!<br>在此次网站搭建过程中,用到了live2d模型 <a href="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<a href="https://space.bilibili.com/1815643596">作者：Yuri 幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!<br>同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划"><a href="#未来企划" class="headerlink" title="未来企划"></a>未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受<br>愿你我,写下新的结局…</p>]]></content>
+        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important; /* 热粉色 HotPink */  color: #fff !important;          }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -105,17 +116,6 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
