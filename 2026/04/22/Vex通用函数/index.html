@@ -279,12 +279,12 @@ if (typeof window.live2d_initialized === 'undefined') {
         live2dCorePath: cdnPath + "/Core/live2dcubismcore.js", // Live2D核心库路径，使用 CDN 加载
         live2dSdkPath: cdnPath + "/live2d-sdk.js" // Live2D SDK路径，使用 CDN 加载
       },
-      tools: ["hitokoto", "express", "info", "quit"], // 前端工具栏按钮配置，我在这里做了精简
-      drag: { enable: false, direction: ["x", "y"] }, // 拖拽配置，这里为模型禁止拖拽
+      tools: ["hitokoto", "asteroids", "express", "switch-model", "switch-texture", "photo", "info", "quit"], // 前端工具栏按钮配置，我在这里做了精简
+      drag: { enable: true, direction: ["x", "y"] }, // 拖拽配置，这里为模型禁止拖拽
       switchType: "order" // 模型切换方式，这里为顺序切换
     };
     // 资源初始化以及移动端适配
-    if (screen.width >= 360) {
+    if (screen.width >= 300) {
       Promise.all([
         loadExternalResource(config.path.cssPath, "css"),
         loadExternalResource(config.path.live2dCorePath, "js"),
