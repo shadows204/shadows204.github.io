@@ -98,11 +98,33 @@
     
     
     <entry>
+      <title>Steam精选</title>
+      <link href="/games/index.html"/>
+      <url>/games/index.html</url>
+      
+        <content type="html"><![CDATA[<div id="steam-games-container" class="steam-games-container"><!-- 游戏卡片将通过 JS 插入到这里 --><p style="text-align:center; color:#888;">加载中…</p></div><style>.steam-games-container {  display: grid;  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));  gap: 20px;  padding: 20px;}.game-card {  background: var(--card-bg, #fff);  border-radius: 8px;  overflow: hidden;  box-shadow: 0 2px 8px rgba(0,0,0,0.1);  transition: transform 0.3s;  display: flex;  flex-direction: column;}.game-card:hover {  transform: translateY(-5px);}.game-cover {  width: 100%;  height: 180px;  object-fit: cover;  background-color: #eee;}.game-info {  padding: 15px;  flex: 1;  display: flex;  flex-direction: column;}.game-name {  margin: 0 0 10px 0;  font-size: 1.2em;  color: var(--text-highlight-color, #333);}.game-desc {  font-size: 0.9em;  color: var(--text-color, #666);  margin-bottom: 10px;  flex-grow: 1;}.tags {  margin-bottom: 10px;}.tag {  display: inline-block;  background: #667eea;  color: white;  padding: 2px 8px;  border-radius: 4px;  font-size: 12px;  margin-right: 5px;  margin-bottom: 5px;}.steam-link {  display: inline-block;  text-align: center;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);  color: white;  padding: 8px 0;  border-radius: 4px;  text-decoration: none;  font-weight: bold;  transition: opacity 0.3s;}.steam-link:hover {  opacity: 0.9;}</style><script>(function() {  var games = window.site && window.site.data ? window.site.data.games : null;  var gamesData = [//在这里写游戏内容    {        "name": "Left 4 Dead 2",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",        "description": "这个第一人称射击恐怖合作动作游戏将带领玩家和好友穿过美国南部的城市、沼泽和墓地，从萨凡纳到新奥尔良，沿途经过五个漫长的战役。玩家将扮演四名新生还者中的一名，装备有种类繁多、数量惊人的经典及先进武器。 除了枪支之外，玩家还有机会用各种可制造屠杀的近战武器在感染者上泄愤，例如电锯、斧头、甚至是致命的平底锅。",        "tags": ["丧尸","射击"],        "steamUrl": "https://store.steampowered.com/app/550/Left_4_Dead_2/",        "price": "￥42"    },    {        "name": "Hearts of Iron IV",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1776862899",        "description": "在《Hearts of Iron IV》中指挥历史上最强大的战争机器，这是一款挑战您的战略能力和政治洞察力的大型战略战争游戏。化身为二战时期的国家首脑，打造工业强国、构建外交联盟，向意识形态对手发动战争。",        "tags": ["大战略","历史","沙盒"],        "steamUrl" : "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",        "price" : "￥198"    },    {        "name": "Europa Universalis V",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3450310/9944293cf93d5c11430d3b69941221b614c3ea70/header.jpg?t=1777026524",        "description": "在史上最非凡战略游戏之一的最新版本《Europa Universalis V》中，将近五百年的历史将在您眼前展开。作为《Europa Universalis IV》的续作,这个模拟的生动游戏世界具备无与伦比的深度与复杂性，其中有上百个国家和社会可供您任意选择来引导其命运。\n《Europa Universalis V》是基于本系列发展与推进国家的核心概念所打造，以深度研究的历史世界为舞台，添加更多细腻的外交方式、更精致的经济模型、重新修订的军事系统和更庞大的后勤深度，连经验最丰富的策略玩家都将面临挑战。",        "tags": ["大战略","历史","沙盒"],        "steamUrl": "https://store.steampowered.com/app/3450310/Europa_Universalis_V/",        "price": "￥238"    }  ];  var container = document.getElementById('steam-games-container');  if (!container) return;  container.innerHTML = ''; // 清空加载提示  gamesData.forEach(function(game) {    var card = document.createElement('div');    card.className = 'game-card';        var tagsHtml = '';    if (game.tags) {      game.tags.forEach(function(tag) {        tagsHtml += '<span class="tag">' + tag + '</span>';      });    }    card.innerHTML =       '<img src="' + (game.cover || '/images/default.jpg') + '" alt="' + game.name + '" class="game-cover">' +      '<div class="game-info">' +        '<h3 class="game-name">' + game.name + '</h3>' +        '<p class="game-desc">' + game.description + '</p>' +        '<div class="tags">' + tagsHtml + '</div>' +        '<a href="' + game.steamUrl + '" target="_blank" class="steam-link">Steam 商店</a>' + (game.price ? ' (' + game.price + ')' : '') + '</a>' +      '</div>';          container.appendChild(card);  });})();</script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important; /* 热粉色 HotPink */  color: #fff !important;          }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -131,31 +153,9 @@
     
     
     <entry>
-      <title>Steam精选</title>
-      <link href="/games/index.html"/>
-      <url>/games/index.html</url>
-      
-        <content type="html"><![CDATA[<div id="steam-games-container" class="steam-games-container"><!-- 游戏卡片将通过 JS 插入到这里 --><p style="text-align:center; color:#888;">加载中…</p></div><style>.steam-games-container {  display: grid;  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));  gap: 20px;  padding: 20px;}.game-card {  background: var(--card-bg, #fff);  border-radius: 8px;  overflow: hidden;  box-shadow: 0 2px 8px rgba(0,0,0,0.1);  transition: transform 0.3s;  display: flex;  flex-direction: column;}.game-card:hover {  transform: translateY(-5px);}.game-cover {  width: 100%;  height: 180px;  object-fit: cover;  background-color: #eee;}.game-info {  padding: 15px;  flex: 1;  display: flex;  flex-direction: column;}.game-name {  margin: 0 0 10px 0;  font-size: 1.2em;  color: var(--text-highlight-color, #333);}.game-desc {  font-size: 0.9em;  color: var(--text-color, #666);  margin-bottom: 10px;  flex-grow: 1;}.tags {  margin-bottom: 10px;}.tag {  display: inline-block;  background: #667eea;  color: white;  padding: 2px 8px;  border-radius: 4px;  font-size: 12px;  margin-right: 5px;  margin-bottom: 5px;}.steam-link {  display: inline-block;  text-align: center;  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);  color: white;  padding: 8px 0;  border-radius: 4px;  text-decoration: none;  font-weight: bold;  transition: opacity 0.3s;}.steam-link:hover {  opacity: 0.9;}</style><script>(function() {  var games = window.site && window.site.data ? window.site.data.games : null;  var gamesData = [//在这里写游戏内容    {        "name": "Left 4 Dead 2",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",        "description": "这个第一人称射击恐怖合作动作游戏将带领玩家和好友穿过美国南部的城市、沼泽和墓地，从萨凡纳到新奥尔良，沿途经过五个漫长的战役。玩家将扮演四名新生还者中的一名，装备有种类繁多、数量惊人的经典及先进武器。 除了枪支之外，玩家还有机会用各种可制造屠杀的近战武器在感染者上泄愤，例如电锯、斧头、甚至是致命的平底锅。",        "tags": ["丧尸","射击"],        "steamUrl": "https://store.steampowered.com/app/550/Left_4_Dead_2/",        "price": "￥42"    },    {        "name": "Hearts of Iron IV",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1776862899",        "description": "在《Hearts of Iron IV》中指挥历史上最强大的战争机器，这是一款挑战您的战略能力和政治洞察力的大型战略战争游戏。化身为二战时期的国家首脑，打造工业强国、构建外交联盟，向意识形态对手发动战争。",        "tags": ["大战略","历史","沙盒"],        "steamUrl" : "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",        "price" : "￥198"    },    {        "name": "Europa Universalis V",        "cover": "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3450310/9944293cf93d5c11430d3b69941221b614c3ea70/header.jpg?t=1777026524",        "description": "在史上最非凡战略游戏之一的最新版本《Europa Universalis V》中，将近五百年的历史将在您眼前展开。作为《Europa Universalis IV》的续作,这个模拟的生动游戏世界具备无与伦比的深度与复杂性，其中有上百个国家和社会可供您任意选择来引导其命运。\n《Europa Universalis V》是基于本系列发展与推进国家的核心概念所打造，以深度研究的历史世界为舞台，添加更多细腻的外交方式、更精致的经济模型、重新修订的军事系统和更庞大的后勤深度，连经验最丰富的策略玩家都将面临挑战。",        "tags": ["大战略","历史","沙盒"],        "steamUrl": "https://store.steampowered.com/app/3450310/Europa_Universalis_V/",        "price": "￥238"    }  ];  var container = document.getElementById('steam-games-container');  if (!container) return;  container.innerHTML = ''; // 清空加载提示  gamesData.forEach(function(game) {    var card = document.createElement('div');    card.className = 'game-card';        var tagsHtml = '';    if (game.tags) {      game.tags.forEach(function(tag) {        tagsHtml += '<span class="tag">' + tag + '</span>';      });    }    card.innerHTML =       '<img src="' + (game.cover || '/images/default.jpg') + '" alt="' + game.name + '" class="game-cover">' +      '<div class="game-info">' +        '<h3 class="game-name">' + game.name + '</h3>' +        '<p class="game-desc">' + game.description + '</p>' +        '<div class="tags">' + tagsHtml + '</div>' +        '<a href="' + game.steamUrl + '" target="_blank" class="steam-link">Steam 商店</a>' + (game.price ? ' (' + game.price + ')' : '') + '</a>' +      '</div>';          container.appendChild(card);  });})();</script>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
