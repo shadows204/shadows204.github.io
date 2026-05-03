@@ -35,7 +35,7 @@
     
     
     <entry>
-      <title>概率论与数理统计Notes</title>
+      <title>概率论Notes</title>
       <link href="/2026/04/26/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1Notes/"/>
       <url>/2026/04/26/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1Notes/</url>
       
@@ -107,22 +107,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="特别感谢">特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!此外,对所有用到的开源插件作者表示衷心的感谢!在此次网站搭建过程中,用到了live2d模型 <ahref="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<ahref="https://space.bilibili.com/1815643596">作者：Yuri幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!小破站建站过程中还用到了很多画师二创作者的图片,感谢各位.图片仅用于个人,不会商用,谢谢~同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划">未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受愿你我,写下新的结局…</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="特别感谢">特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!此外,对所有用到的开源插件作者表示衷心的感谢!在此次网站搭建过程中,用到了live2d模型 <ahref="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<ahref="https://space.bilibili.com/1815643596">作者：Yuri幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!小破站建站过程中还用到了很多画师二创作者的图片,感谢各位.图片仅用于个人,不会商用,谢谢~同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划">未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受愿你我,写下新的结局…</p>]]></content>
       
     </entry>
     
@@ -162,9 +162,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
@@ -173,9 +173,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
