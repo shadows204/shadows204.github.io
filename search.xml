@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>资源站点</title>
+      <link href="/2026/06/14/%E8%B5%84%E6%BA%90%E9%A1%B5%E9%9D%A2/"/>
+      <url>/2026/06/14/%E8%B5%84%E6%BA%90%E9%A1%B5%E9%9D%A2/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="资源分享页面">资源分享页面</h1><h3 id="学习资料">学习资料</h3><ul><li><a href="%22https://pan.quark.cn/s/f561ceba7220%22">工科数学分析</a></li><li><a href="%22https://pan.quark.cn/s/8bbc8f085073%22">离散数学</a></li><li><a href="%22https://pan.quark.cn/s/6c70840638b4%22">概率论与数理统计</a></li><li><a href="%22https://pan.quark.cn/s/ca3f7c89f738%22">计算机程序设计(C++)</a></li><li><a href="%22https://pan.quark.cn/s/041a6fcc3890%22">数据结构与算法</a></li></ul><h3 id="编程语言安装官网链接">编程语言安装官网链接</h3><ul><li><a href="%22https://www.python.org/downloads/%22">Python</a></li><li><a href="%22https://www.msys2.org/%22">C/C++Mingw-w64/MSYS2</a></li><li><a href="%22https://www.oracle.com/java/technologies/downloads/#jdk26-windows%22">Java(JDK26、25、21)</a></li><li><a href="%22https://nodejs.org/zh-cn/download%22">Node.js</a></li></ul><h3 id="软件分享">软件分享</h3><p>下述链接是官网链接，如果无法访问可以使用<a href="%22https://pan.quark.cn/s/771ddb98b96f%22">这个链接</a></p><h4 id="编程软件">编程软件</h4><ul><li><a href="%22https://code.visualstudio.com/Download%22">VSCode</a></li><li><a href="%22https://www.jetbrains.com/zh-cn/ides/#choose-your-ide%22">JetBrains</a></li><li><a href="%22https://visualstudio.microsoft.com/zh-hans/vs/%22">VisualStudio</a></li></ul><h4 id="应用软件">应用软件</h4><ul><li><a href="%22https://www.wps.cn/%22">WPS</a></li><li><a href="%22https://www.adobe.com/home/%22">Adobe</a>,相关软件建议看<a href="%22https://pan.quark.cn/s/fe540f53cb07%22">直链</a></li></ul><h4 id="学科软件">学科软件</h4><ul><li><a href="%22https://ww2.mathworks.cn/downloads/%22">MATLAB</a></li><li><a href="%22https://www.tongyuan.cc/product/download%22">MWorks</a></li></ul><p><br><br></p><hr><p>感谢支持，以后会继续同步更新~（应该吧）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源站页面 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 资源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>XJTUPC校赛一日混</title>
       <link href="/2026/05/10/XJTUPC%E6%A0%A1%E8%B5%9B%E4%B8%80%E6%97%A5%E6%B7%B7/"/>
       <url>/2026/05/10/XJTUPC%E6%A0%A1%E8%B5%9B%E4%B8%80%E6%97%A5%E6%B7%B7/</url>
@@ -165,22 +190,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="特别感谢">特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!此外,对所有用到的开源插件作者表示衷心的感谢!在此次网站搭建过程中,用到了live2d模型 <ahref="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<ahref="https://space.bilibili.com/1815643596">作者：Yuri幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!小破站建站过程中还用到了很多画师二创作者的图片,感谢各位.图片仅用于个人,不会商用,谢谢~同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划">未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受愿你我,写下新的结局…</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important;  color: #fff !important;          }]]></content>
       
     </entry>
     
@@ -198,11 +223,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[#footer {  background-color: #f8c8dc !important;  color: #fff !important;          }]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="特别感谢">特别感谢</h2><p>本站采用Butterfly和Hexo搭建,感谢相关开源作者的贡献!此外,对所有用到的开源插件作者表示衷心的感谢!在此次网站搭建过程中,用到了live2d模型 <ahref="https://www.bilibili.com/video/BV1S8411H7zf/">Allium</a> （<ahref="https://space.bilibili.com/1815643596">作者：Yuri幽里_official</a>）,感谢免费模型作者的辛苦付出,在此表达衷心的感谢与祝福!小破站建站过程中还用到了很多画师二创作者的图片,感谢各位.图片仅用于个人,不会商用,谢谢~同时感谢各位广大同僚和朋友的支持与关注(谢谢关注喵~)</p><h2 id="未来企划">未来企划</h2><p>在将来,本小破站将会进一步开发完善,添加更多功能,带来更好的视觉感受愿你我,写下新的结局…</p>]]></content>
       
     </entry>
     
